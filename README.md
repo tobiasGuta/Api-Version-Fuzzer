@@ -38,6 +38,8 @@
         *   **Length Differences**: Does an older version return more data?
 4.  **Manage**: Right-click a host in the left panel to remove it if needed.
 
+<img width="1909" height="997" alt="Screenshot 2026-01-14 175426" src="https://github.com/user-attachments/assets/416e31b1-783a-40ad-9096-2ab7f73b1669" />
+
 ## Building from Source
 
 Requirements:
